@@ -1,4 +1,4 @@
-### Hi there 👋
+### Trophy 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MUG030)](https://github.com/ryo-ma/github-profile-trophy)
 
