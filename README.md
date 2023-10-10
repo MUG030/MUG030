@@ -7,6 +7,11 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+[![MUG030's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUG030&theme=vue-dark&show_icons=true)](https://github.com/MUG030/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUG030&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/MUG030/github-readme-stats)
+
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 
@@ -14,11 +19,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MUG030)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages and Tools:
 
-[![MUG030's GitHub stats](https://github-readme-stats.vercel.app/api?username=MUG030&theme=vue-dark&show_icons=true)](https://github.com/MUG030/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MUG030&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/MUG030/github-readme-stats)
 
 <!--
 **MUG030/MUG030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
