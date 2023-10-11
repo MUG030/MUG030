@@ -19,7 +19,7 @@
 
 ### Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MUG030&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MUG030&theme=gruvbox?hide=issues,reviews)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
