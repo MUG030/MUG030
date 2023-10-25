@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 , I'm MUG030</h1>
-<h3 align="center">Japanese student learning programming development</h3>
+<h1 align="center">こんにちは 👋 , MUGという名前で活動しています！</h1>
+<h3 align="center">プログラミングを勉強している大学生です。</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
